@@ -20,6 +20,7 @@ section {
 }
 .main {
   position: relative;
+  margin-top: 210px;
 }
 
 .main .text-container {
@@ -32,7 +33,7 @@ section {
   height: 160px;
   width: 160px;
   object-fit: cover;
-  border: 3px solid lightblue;
+  border: 3px solid black;
 }
 
 .profile .nama {
